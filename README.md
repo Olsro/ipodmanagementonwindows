@@ -61,7 +61,9 @@ You need to extract "iPod Management on Windows.utm.7z.001" which will automatic
 	![Alt text](images/linux/virtualmachineusbredir.png?raw=true "Virtual Machine USB Passthrough")
 
 ### 4) Restoring using iTunes
-Connect your iPod to the virtual machine using USB passthrough then open iTunes and restore your iPod from here. If USB passthrough does not work for you, try to use another port and retry. On MacOS, I recommend to let the iPod connect to the host then eject it on the Finder before doing the passthrough, it seems more reliable this way.
+I recommend to let the iPod connect to the host then eject it on the Finder before doing the passthrough, it is more reliable this way.
+
+Then, it's time to connect your iPod to the virtual machine using USB passthrough then open iTunes to do the restore.
 
 ## Credits
 Project started, documented and maintained by OlsroFR
