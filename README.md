@@ -61,7 +61,7 @@ You need to extract "iPod Management on Windows.utm.7z.001" which will automatic
 	![Alt text](images/linux/virtualmachineusbredir.png?raw=true "Virtual Machine USB Passthrough")
 
 ### 4) Restoring using iTunes
-The option "Disk use" (enabled by default) **must** be enabled. If it isn't enabled, you can enable by connecting your iPod on your host machine through iTunes (or through the Finder syncing window for the most recent versions of MacOS).
+The option "Disk use" (enabled by default) **must** be enabled. If it isn't enabled, you can enable it by connecting your iPod on your host machine through iTunes (or through the Finder syncing window for the most recent versions of MacOS).
 
 I recommend letting the iPod connect to the host then eject it on the Finder before doing the passthrough to the Virtual Machine, it is more reliable this way.
 
